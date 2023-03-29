@@ -1,0 +1,6 @@
+## TODO
+### Phase 1 :-
+- [x] Take input username and password
+- [x] Check is username is valid or not 
+- [ ] Login into github account
+- [ ] Fetch data from github

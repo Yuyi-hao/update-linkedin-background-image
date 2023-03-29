@@ -1,0 +1,9 @@
+
+matplotlib
+numpy
+pandas
+seaborn
+pillow
+requests
+python-dotenv
+python-linkedin
